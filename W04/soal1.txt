@@ -1,0 +1,8 @@
+operasi perkalian
+n(n-1)
+
+operasi pengurangan
+n(n-1)
+
+operasi pembagian
+n-1

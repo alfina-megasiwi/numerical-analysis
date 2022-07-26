@@ -1,0 +1,20 @@
+L =
+
+   1.0000        0        0        0        0        0
+   3.0000   1.0000        0        0        0        0
+        0  -3.0000   1.0000        0        0        0
+        0        0   0.4091   1.0000        0        0
+        0        0        0  -0.6111   1.0000        0
+        0        0        0        0   1.3846   1.0000
+
+U =
+
+    1.0000    2.0000         0         0         0         0
+         0   -2.0000    5.0000         0         0         0
+         0         0   22.0000    8.0000         0         0
+         0         0         0   -3.2727    1.0000         0
+         0         0         0         0    3.6111    4.0000
+         0         0         0         0         0    0.461
+
+Iya, matriks segitiga bawah L adalah matriks pita dengan upper bandwith=0 dan lower bandwith=1
+Matriks segitiga atas U adalah matriks pita dengan upper bandwith=1 dan lower bandwith=0
